@@ -7,7 +7,10 @@
 • Exploring the power of data to solve real-world problems.
 
 • I enjoy challenges involving:
-  o	Data-driven insights
-  o	Software development
-  o	Problem-solving & logic building
+
+    o	Data-driven insights
+  
+    o	Software development
+  
+    o	Problem-solving & logic building
 
