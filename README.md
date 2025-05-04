@@ -1,4 +1,4 @@
-## Hi, I'm Haider - Computer Science Undergraduate
+## Hi, I'm Haider - Computer & Information Systems Engineering Student
 
 • Passionate about data science, analytics, and emerging tech.
 
@@ -8,9 +8,9 @@
 
 • I enjoy challenges involving:
 
-    o	Data-driven insights
+   o Data-driven insights
   
-    o	Software development
+   o Software development
   
-    o	Problem-solving & logic building
+   o Problem-solving & logic building
 
