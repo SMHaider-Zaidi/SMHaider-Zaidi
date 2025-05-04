@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
-
-
 ---
 
 ### GitHub Stats:
@@ -40,4 +38,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMHaider-Zaidi&show_icons=true&theme=default)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SMHaider-Zaidi)
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SMHaider-Zaidi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
