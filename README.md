@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" src="./assets/giphy.webp" alt="Ghost Animation"/>
+  <img width="250" src="./assets/ghost-transparent.gif" alt="Ghost Animation"/>
 </div>
 
 <div align="center">
@@ -8,21 +8,20 @@
 
 </div>
 
-<div align="center">
-    <a href="https://linkedin.com/in/haider-zaidi11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:haider56zaidi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/haider-zaidi11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:haider56zaidi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" /></a>
+</p>
 
 <hr />
 
 ## 👨‍💻 A little about me
-I am a **Computer Engineering student** and **Full-Stack Developer** with a sharp focus on systems architecture and high-performance logic. My approach is driven by precision and a commitment to building scalable, efficient solutions. In life, I am guided by self-development and the pursuit of technical excellence.
+I am a Computer Engineering student and Full-Stack Developer focused on building efficient software and exploring system architecture. I aim to bridge the gap between my academic foundation and the practical demands of modern web development.
 
-**Ranked 1st in competitive programming** at NED University and a finalist in regional logic design competitions. I have a proven track record of solving complex algorithmic problems and optimizing hardware logic under pressure.
+I have a strong background in algorithmic problem-solving, developed through competing in technical events at NED University and FAST-NUCES. These experiences have shaped my ability to tackle complex logic and build robust, scalable solutions.
 
-Currently, I am engaged in developing **open-source projects** and exploring advanced **system architectures**. I specialize in creating scalable websites, applications, and low-latency backend infrastructures.
-
-At the moment, I am deepening my expertise in **Node.js** for event-driven environments, as well as mastering **React** and **Machine Learning** to create intelligent, data-driven user experiences.
+Currently, I am working on full-stack projects that emphasize clean code and performance. I am deepening my backend expertise in Node.js while actively exploring React and Next.js to build sophisticated user experiences.
 
 ---
 
@@ -43,7 +42,7 @@ At the moment, I am deepening my expertise in **Node.js** for event-driven envir
 | :--- | :--- |
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
