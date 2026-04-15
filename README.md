@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" src="./assets/ghost.gif" alt="Ghost Animation"/>
+  <img width="250" src="./assets/giphy.webp" alt="Ghost Animation"/>
 </div>
 
 <div align="center">
