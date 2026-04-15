@@ -5,7 +5,6 @@
 <div align="center">
 
 ### Ｇｒｅｅｔｉｎｇｓ， ｗａｎｄｅｒｅｒ！ Ｉ＇ｍ ＨＡＩＤＥＲ ＺＡＩＤＩ！
-*Full-Stack & Software Engineer | Architecture Enthusiast*
 
 </div>
 
