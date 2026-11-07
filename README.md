@@ -1,68 +1,110 @@
-<div align="center">
-  <img width="250" src="./assets/ghost-transparent.gif" alt="Ghost Animation"/>
-</div>
-
-<div align="center">
-
-### Ｇｒｅｅｔｉｎｇｓ， ｗａｎｄｅｒｅｒ！Ｉ＇ｍ ＨＡＩＤＥＲ ＺＡＩＤＩ！
-
-</div>
-
 <p align="center">
-  <a href="https://linkedin.com/in/haider-zaidi11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:haider56zaidi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" /></a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a371f7&height=160&section=header" alt="header" />
 </p>
 
-<hr />
+<p align="center">
+  <img width="200" src="./assets/ghost-transparent.gif" alt="Ghost Animation" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9DA7B3&center=true&vCenter=true&width=600&height=40&lines=Greetings,+wanderer!" alt="Greeting" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=70&lines=I'm+HAIDER+ZAIDI" alt="Name" />
+</p>
 
-## 👨‍💻 A little about me
-I am a Computer Engineering student and Full-Stack Developer focused on building efficient software and exploring system architecture. I aim to bridge the gap between my academic foundation and the practical demands of modern web development.
-
-I have a strong background in algorithmic problem-solving, developed through competing in technical events at NED University and FAST-NUCES. These experiences have shaped my ability to tackle complex logic and build robust, scalable solutions.
-
-Currently, I am working on full-stack projects that emphasize clean code and performance. I am deepening my backend expertise in Node.js while actively exploring React and Next.js to build sophisticated user experiences.
-
----
-
-## 🧬 Core System Architecture (Skills)
-
-<div align="center">
-
-| 🏗️ Backend & Logic | 🗄️ Database & Persistence | 🎨 Frontend & Design |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![ORM](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=googlecloud&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+<p align="center">
+  <a href="https://linkedin.com/in/haider-zaidi11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:haider56zaidi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 <br />
 
-| 🛠️ Data Science & Engineering | ⚙️ DevOps & Version Control |
-| :--- | :--- |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+## 👨‍💻 About Me
 
-</div>
+> I build efficient software and explore system architecture.
 
----
+I am a Computer Engineering student and Full-Stack Developer. I aim to bridge the gap between my academic foundation and the practical demands of modern web development.
 
-## 📊 Analytics & Activity
+I have a strong background in algorithmic problem-solving, built by competing in technical events at **NED University** and **FAST-NUCES**. These experiences shaped how I handle complex logic and build solid, scalable solutions.
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMHaider-Zaidi&bg_color=0d1117&color=5acbe9&point=5acbe9&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+Alongside development, I am interested in research in AI and Machine Learning, and I am currently doing some work in this area. I like understanding how intelligent systems are designed and evaluated, and how they can be applied to real problems.
 
 <br />
 
+## 🚀 What I'm Up To
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SMHaider-Zaidi&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMHaider-Zaidi&layout=compact&theme=tokyonight" alt="Languages" />
+
+| | |
+| :-- | :-- |
+| 🔨 **Building** | Full-stack projects with a focus on clean code and performance |
+| 🧠 **Strengthening** | Backend development skills & research |
+| 🌱 **Exploring** | React and Next.js for better user experiences |
+| 🔬 **Researching** | AI and Machine Learning |
+| 🏆 **Competing** | Algorithmic and technical events |
+
 </div>
 
 <br />
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMHaider-Zaidi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🧬 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🏗️ Backend & Logic</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Python &nbsp;
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="20"/> Node.js &nbsp;
+      <img src="https://cdn.simpleicons.org/express/FFFFFF" width="20"/> Express &nbsp;
+      <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="20"/> Flask
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" width="20"/> MySQL &nbsp;
+      <img src="https://cdn.simpleicons.org/sequelize/52B0E7" width="20"/> Sequelize &nbsp;
+      <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="20"/> Socket.io
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend & Design</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> React &nbsp;
+      <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="20"/> Next.js &nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> JavaScript &nbsp;
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20"/> Tailwind CSS &nbsp;
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="20"/> HTML5
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Data Science</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="20"/> Pandas &nbsp;
+      <img src="https://cdn.simpleicons.org/numpy/FFFFFF" width="20"/> NumPy &nbsp;
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ DevOps & Tools</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/git/F05033" width="20"/> Git &nbsp;
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20"/> GitHub &nbsp;
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="20"/> Postman
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMHaider-Zaidi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SMHaider-Zaidi/SMHaider-Zaidi/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="95%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer" alt="Footer" />
+</p>
