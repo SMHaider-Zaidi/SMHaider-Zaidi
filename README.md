@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a371f7&height=160&section=header" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D2B73&height=160&section=header" alt="header" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9DA7B3&center=true&vCenter=true&width=600&height=40&lines=Greetings,+wanderer!" alt="Greeting" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=70&lines=I'm+HAIDER+ZAIDI" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=3000&pause=1000&color=0D2B73&center=true&vCenter=true&width=600&height=70&lines=I'm+HAIDER+ZAIDI" alt="Name" />
 </p>
 
 <p align="center">
@@ -106,5 +106,5 @@ Alongside development, I am interested in research in AI and Machine Learning, a
 <br />
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D2B73&height=120&section=footer" alt="Footer" />
 </p>
